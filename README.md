@@ -59,18 +59,7 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UTKARSHGUPTA2390&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UTKARSHGUPTA2390&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="top langs"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UTKARSHGUPTA2390&theme=tokyonight&hide_border=true" alt="streak"/>
-</p>
 
 ---
 
